@@ -1,4 +1,4 @@
-package com.reactorcourse.demo;
+package com.reactorcourse.demo.playground;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
